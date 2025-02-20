@@ -1,0 +1,15 @@
+{
+    "name": "william.rodrigues/mvc-php-puro",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bobonimo111",
+            "email": "carlosmaycon443@gmail.com"
+        }
+    ],
+    "require": {}
+}
